@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34553880/README.md)
 # Instagram Username Checker
 
 A simple console tool that checks a list of Instagram usernames and tells you which ones are available.
