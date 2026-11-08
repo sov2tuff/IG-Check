@@ -4,8 +4,7 @@ A simple console tool that checks a list of Instagram usernames and tells you wh
 
 Load a `.txt` file, watch the live dashboard, and get a `result.txt` with every available username. It can also generate random usernames for you to check.
 
-This tool was made in ONE hour, so dont expect it to be amazing
-
+This tool was vibecoded in 30 minutes, so dont expect it to be something top of the line that u get for money
 ## Features
 
 - **Bulk checking** from a `.txt` file (one username per line, drag and drop supported)
